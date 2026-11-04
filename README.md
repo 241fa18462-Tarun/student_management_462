@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎓 Live Project Preview 👨‍🎓
+# 🎓 Live Project Preview
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2EA44F&center=true&vCenter=true&width=435&lines=🚀+Live+Demo+is+Available!;Click+below+to+test+the+app!)](https://studentmanagement462.edgeone.dev/)
 <br/>
