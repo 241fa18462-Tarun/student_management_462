@@ -3,9 +3,7 @@
 # 🌐 Live Project Preview
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2EA44F&center=true&vCenter=true&width=435&lines=🚀+Live+Demo+is+Available!;Click+below+to+test+the+app!)](https://studentmanagement462.edgeone.dev/)
-
 <br/>
-<br/><br/>
 <p align="center">
   <a href="https://studentmanagement462.edgeone.dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" alt="Point" width="35" height="35" />
